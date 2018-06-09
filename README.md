@@ -34,3 +34,7 @@ and you obtain this output:
 # Examples
 In the "sud" folder you have sudoku files to test this program and in the "res" folder you have the solutions of this sudoku files.
 You can run all the test with the "test.sh" script.
+## Autors
+* **[cosmogat]**(https://github.com/cosmogat)
+## License
+See the [LICENSE](LICENSE)
